@@ -1,4 +1,4 @@
-# turbodbc_basics
+# Turbodbc
 
 Turbodbc is a Python module to access relational databases via the Open Database Connectivity (ODBC) interface with Apache Arrow support. [Refer](https://turbodbc.readthedocs.io/en/latest/)  
   
